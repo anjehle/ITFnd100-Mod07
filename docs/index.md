@@ -8,7 +8,13 @@ Hi! I'm Alex!
 Pickling
 
 ### Pickling in this capacity
-### Pickling in that capacity
+### Pickling Example
+
+'''
+if(data == readlines())
+  print('success')
+end
+'''
 
 ## Topic 2
 I don't remember
