@@ -10,11 +10,11 @@ Pickling
 ### Pickling in this capacity
 ### Pickling Example
 
-'''
+```
 if(data == readlines())
   print('success')
 end
-'''
+```
 
 ## Topic 2
 I don't remember
