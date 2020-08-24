@@ -46,4 +46,5 @@ def write_data_to_file(file_name, list_of_rows):
 
 ### Execution in PyCharm
 The program with the code modifications shown above was executed in PyCharm. The program was successfully pickled and unpickled, as shown in Figure 3.
-
+![Figure 3: Execution of pickled file in PyCharm](https://github.com/anjehle/ITFnd100-Mod07/blob/master/docs/images/PicklesPC1.png "Pickle from PyCharm")
+![ ](https://github.com/anjehle/ITFnd100-Mod07/blob/master/docs/images/PicklesPC2.png "Pickle")
